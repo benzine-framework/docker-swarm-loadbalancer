@@ -28,7 +28,7 @@ lint:
     - markdownlint@0.45.0
     - taplo@0.10.0
     - actionlint@1.7.7
-    - checkov@3.2.470
+    - checkov@3.2.471
     - prettier@3.6.2
     - yamllint@1.37.1
   definitions:
